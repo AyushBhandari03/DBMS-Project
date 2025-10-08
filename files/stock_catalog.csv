@@ -1,0 +1,477 @@
+stock_symbol,company_name,industry,exchange
+NETWEB,Netweb Technologies India Limited,Computer Hardware,NSE
+GMDCLTD,Gujarat Mineral Development Corporation Limited,Thermal Coal,NSE
+IDEA,Vodafone Idea Limited,Telecom Services,NSE
+SKFINDIA,SKF India Limited,Tools & Accessories,NSE
+GODFRYPHLP,Godfrey Phillips India Limited,Tobacco,NSE
+RTNINDIA,RattanIndia Enterprises Limited,Internet Retail,NSE
+JPPOWER,Jaiprakash Power Ventures Limited,Utilities - Independent Power Producers,NSE
+BSE,BSE Limited,Financial Data & Stock Exchanges,NSE
+SCHNEIDER,Schneider Electric Infrastructure Limited,Electrical Equipment & Parts,NSE
+NIVABUPA,Niva Bupa Health Insurance Company Limited,Insurance - Life,NSE
+RBLBANK,RBL Bank Limited,Banks - Regional,NSE
+INDUSTOWER,Indus Towers Limited,Telecom Services,NSE
+ABFRL,Aditya Birla Fashion and Retail Limited,Apparel Manufacturing,NSE
+BEML,BEML Limited,Conglomerates,NSE
+APTUS,Aptus Value Housing Finance India Limited,Mortgage Finance,NSE
+GLENMARK,Glenmark Pharmaceuticals Limited,Drug Manufacturers - Specialty & Generic,NSE
+CUB,City Union Bank Limited,Banks - Regional,NSE
+KFINTECH,KFin Technologies Limited,Software - Application,NSE
+CLEAN,Clean Science and Technology Limited,Specialty Chemicals,NSE
+NATIONALUM,National Aluminium Company Limited,Aluminum,NSE
+ASHOKLEY,Ashok Leyland Limited,Farm & Heavy Construction Machinery,NSE
+GODREJAGRO,Godrej Agrovet Limited,Packaged Foods,NSE
+MSUMI,Motherson Sumi Wiring India Limited,Auto Parts,NSE
+ASTRAL,Astral Limited,Building Products & Equipment,NSE
+GRAVITA,Gravita India Limited,Metal Fabrication,NSE
+CENTURYPLY,Century Plyboards (India) Limited,Lumber & Wood Production,NSE
+LEMONTREE,Lemon Tree Hotels Limited,Lodging,NSE
+RENUKA,Shree Renuka Sugars Limited,Confectioners,NSE
+M&MFIN,Mahindra & Mahindra Financial Services Limited,Credit Services,NSE
+EICHERMOT,Eicher Motors Limited,Auto Manufacturers,NSE
+M&M,Mahindra & Mahindra Limited,Auto Manufacturers,NSE
+VEDL,Vedanta Limited,Other Industrial Metals & Mining,NSE
+MMTC,MMTC Limited,Conglomerates,NSE
+VOLTAS,Voltas Limited,"Furnishings, Fixtures & Appliances",NSE
+CHOLAFIN,Cholamandalam Investment and Finance Company Limited,Credit Services,NSE
+PNCINFRA,PNC Infratech Limited,Engineering & Construction,NSE
+GODREJIND,Godrej Industries Limited,Conglomerates,NSE
+CAMPUS,Campus Activewear Limited,Footwear & Accessories,NSE
+CAMS,Computer Age Management Services Limited,Information Technology Services,NSE
+EXIDEIND,Exide Industries Limited,Auto Parts,NSE
+KARURVYSYA,The Karur Vysya Bank Limited,Banks - Regional,NSE
+VIJAYA,Vijaya Diagnostic Centre Limited,Diagnostics & Research,NSE
+NSLNISP,NMDC Steel Limited,Steel,NSE
+BIOCON,Biocon Limited,Biotechnology,NSE
+ARE&M,Amara Raja Energy & Mobility Limited,Electrical Equipment & Parts,NSE
+IGIL,International Gemmological Institute (India) Limited,Other Precious Metals & Mining,NSE
+ANGELONE,Angel One Limited,Capital Markets,NSE
+SWANCORP,Swan Corp Limited,Conglomerates,NSE
+IRFC,Indian Railway Finance Corporation Limited,Credit Services,NSE
+SHRIRAMFIN,Shriram Finance Limited,Credit Services,NSE
+MARUTI,Maruti Suzuki India Limited,Auto Manufacturers,NSE
+ESCORTS,Escorts Kubota Limited,Farm & Heavy Construction Machinery,NSE
+IRCON,Ircon International Limited,Engineering & Construction,NSE
+IOB,Indian Overseas Bank,Banks - Regional,NSE
+SARDAEN,Sarda Energy & Minerals Limited,Steel,NSE
+NMDC,NMDC Limited,Steel,NSE
+PPLPHARMA,Piramal Pharma Limited,Drug Manufacturers - Specialty & Generic,NSE
+VGUARD,V-Guard Industries Limited,Electrical Equipment & Parts,NSE
+JSL,Jindal Stainless Limited,Steel,NSE
+RITES,RITES Limited,Engineering & Construction,NSE
+JYOTICNC,Jyoti CNC Automation Limited,Specialty Industrial Machinery,NSE
+NYKAA,FSN E-Commerce Ventures Limited,Internet Retail,NSE
+MRPL,Mangalore Refinery and Petrochemicals Limited,Oil & Gas Refining & Marketing,NSE
+TTML,Tata Teleservices (Maharashtra) Limited,Telecom Services,NSE
+GVT&D,GE Vernova T&D India Limited,Specialty Industrial Machinery,NSE
+RHIM,RHI Magnesita India Limited,Metal Fabrication,NSE
+SAIL,Steel Authority of India Limited,Steel,NSE
+MAHABANK,Bank of Maharashtra,Banks - Regional,NSE
+PHOENIXLTD,The Phoenix Mills Limited,Real Estate - Diversified,NSE
+DRREDDY,Dr. Reddy's Laboratories Limited,Drug Manufacturers - Specialty & Generic,NSE
+UNOMINDA,Uno Minda Limited,Auto Parts,NSE
+CHENNPETRO,Chennai Petroleum Corporation Limited,Oil & Gas Refining & Marketing,NSE
+POWERGRID,Power Grid Corporation of India Limited,Utilities - Regulated Electric,NSE
+IREDA,Indian Renewable Energy Development Agency Limited,Credit Services,NSE
+TVSMOTOR,TVS Motor Company Limited,Auto Manufacturers,NSE
+AMBER,Amber Enterprises India Limited,"Furnishings, Fixtures & Appliances",NSE
+BDL,Bharat Dynamics Limited,Aerospace & Defense,NSE
+TANLA,Tanla Platforms Limited,Software - Application,NSE
+AFFLE,Affle 3i Limited,Advertising Agencies,NSE
+JMFINANCIL,JM Financial Limited,Capital Markets,NSE
+WELSPUNLIV,Welspun Living Limited,Textile Manufacturing,NSE
+PNBHOUSING,PNB Housing Finance Limited,Mortgage Finance,NSE
+ABCAPITAL,Aditya Birla Capital Limited,Financial Conglomerates,NSE
+PVRINOX,PVR INOX Limited,Entertainment,NSE
+JSWHL,JSW Holdings Limited,Conglomerates,NSE
+KAYNES,Kaynes Technology India Limited,Electronic Components,NSE
+JBMA,JBM Auto Limited,Auto Parts,NSE
+PRAJIND,Praj Industries Limited,Engineering & Construction,NSE
+RELIANCE,Reliance Industries Limited,Oil & Gas Refining & Marketing,NSE
+ZEEL,Zee Entertainment Enterprises Limited,Broadcasting,NSE
+INOXWIND,Inox Wind Limited,Specialty Industrial Machinery,NSE
+LTF,L&T Finance Limited,Credit Services,NSE
+PFC,Power Finance Corporation Limited,Credit Services,NSE
+AUROPHARMA,Aurobindo Pharma Limited,Drug Manufacturers - Specialty & Generic,NSE
+NUVAMA,Nuvama Wealth Management Limited,Asset Management,NSE
+AAVAS,Aavas Financiers Limited,Mortgage Finance,NSE
+CANBK,Canara Bank,Banks - Regional,NSE
+ENGINERSIN,Engineers India Limited,Engineering & Construction,NSE
+PAYTM,One97 Communications Limited,Software - Infrastructure,NSE
+J&KBANK,Jammu and Kashmir Bank Limited,Banks - Regional,NSE
+ROUTE,Route Mobile Limited,Telecom Services,NSE
+FIVESTAR,Five-Star Business Finance Limited,Credit Services,NSE
+DATAPATTNS,Data Patterns (India) Limited,Aerospace & Defense,NSE
+CDSL,Central Depository Services (India) Limited,Capital Markets,NSE
+ETERNAL,Eternal Limited,Internet Retail,NSE
+NBCC,NBCC (India) Limited,Engineering & Construction,NSE
+NAUKRI,Info Edge (India) Limited,Internet Content & Information,NSE
+LAURUSLABS,Laurus Labs Limited,Drug Manufacturers - Specialty & Generic,NSE
+KPITTECH,KPIT Technologies Limited,Software - Infrastructure,NSE
+CHALET,Chalet Hotels Limited,Lodging,NSE
+RVNL,Rail Vikas Nigam Limited,Engineering & Construction,NSE
+LTFOODS,LT Foods Limited,Packaged Foods,NSE
+SUZLON,Suzlon Energy Limited,Specialty Industrial Machinery,NSE
+TATAMOTORS,Tata Motors Limited,Auto Manufacturers,NSE
+CHOLAHLDNG,Cholamandalam Financial Holdings Limited,Credit Services,NSE
+IIFL,IIFL Finance Limited,Credit Services,NSE
+BHEL,Bharat Heavy Electricals Limited,Specialty Industrial Machinery,NSE
+JKTYRE,JK Tyre & Industries Limited,Auto Parts,NSE
+GLAND,Gland Pharma Limited,Drug Manufacturers - Specialty & Generic,NSE
+SBILIFE,SBI Life Insurance Company Limited,Insurance - Life,NSE
+TATAPOWER,Tata Power Company Limited,Utilities - Independent Power Producers,NSE
+TATAELXSI,Tata Elxsi Limited,Software - Application,NSE
+HINDALCO,Hindalco Industries Limited,Aluminum,NSE
+HINDCOPPER,Hindustan Copper Limited,Copper,NSE
+HOMEFIRST,Home First Finance Company India Limited,Mortgage Finance,NSE
+SAMMAANCAP,Sammaan Capital Limited,Mortgage Finance,NSE
+HINDZINC,Hindustan Zinc Limited,Other Industrial Metals & Mining,NSE
+AJANTPHARM,Ajanta Pharma Limited,Drug Manufacturers - Specialty & Generic,NSE
+UCOBANK,UCO Bank,Banks - Regional,NSE
+HDFCLIFE,HDFC Life Insurance Company Limited,Insurance - Life,NSE
+BHARATFORG,Bharat Forge Limited,Auto Parts,NSE
+IFCI,IFCI Limited,Credit Services,NSE
+SONACOMS,Sona BLW Precision Forgings Limited,Auto Parts,NSE
+YESBANK,Yes Bank Limited,Banks - Regional,NSE
+OIL,Oil India Limited,Oil & Gas Integrated,NSE
+ANANTRAJ,Anant Raj Limited,Real Estate - Development,NSE
+RECLTD,REC Limited,Credit Services,NSE
+BHARTIARTL,Bharti Airtel Limited,Telecom Services,NSE
+BANKINDIA,Bank of India Limited,Banks - Regional,NSE
+ALKEM,Alkem Laboratories Limited,Drug Manufacturers - Specialty & Generic,NSE
+SIGNATURE,Signatureglobal (India) Limited,Real Estate - Development,NSE
+RPOWER,Reliance Power Limited,Utilities - Independent Power Producers,NSE
+SJVN,SJVN Limited,Utilities - Renewable,NSE
+GRSE,Garden Reach Shipbuilders & Engineers Limited,Aerospace & Defense,NSE
+MFSL,Max Financial Services Limited,Insurance - Life,NSE
+KPIL,Kalpataru Projects International Limited,Engineering & Construction,NSE
+SUNPHARMA,Sun Pharmaceutical Industries Limited,Drug Manufacturers - Specialty & Generic,NSE
+BAJAJFINSV,Bajaj Finserv Ltd.,Financial Conglomerates,NSE
+MANAPPURAM,Manappuram Finance Limited,Credit Services,NSE
+CAPLIPOINT,Caplin Point Laboratories Limited,Drug Manufacturers - Specialty & Generic,NSE
+SHYAMMETL,Shyam Metalics and Energy Limited,Steel,NSE
+360ONE,360 One Wam Limited,Asset Management,NSE
+TATASTEEL,Tata Steel Limited,Steel,NSE
+TITAGARH,Titagarh Rail Systems Limited,Railroads,NSE
+IDFCFIRSTB,IDFC First Bank Limited,Banks - Regional,NSE
+BANDHANBNK,Bandhan Bank Limited,Banks - Regional,NSE
+RAYMOND,Raymond Limited,Specialty Industrial Machinery,NSE
+AXISBANK,Axis Bank Limited,Banks - Regional,NSE
+BERGEPAINT,Berger Paints India Limited,Specialty Chemicals,NSE
+ASIANPAINT,Asian Paints Limited,Specialty Chemicals,NSE
+BSOFT,Birlasoft Limited,Information Technology Services,NSE
+HUDCO,Housing and Urban Development Corporation Limited,Credit Services,NSE
+MAXHEALTH,Max Healthcare Institute Limited,Medical Care Facilities,NSE
+JUBLPHARMA,Jubilant Pharmova Limited,Drug Manufacturers - Specialty & Generic,NSE
+FINCABLES,Finolex Cables Limited,Electrical Equipment & Parts,NSE
+JUBLFOOD,Jubilant FoodWorks Limited,Restaurants,NSE
+USHAMART,Usha Martin Limited,Steel,NSE
+UNIONBANK,Union Bank of India,Banks - Regional,NSE
+MINDACORP,Minda Corporation Limited,Auto Parts,NSE
+INDUSINDBK,IndusInd Bank Limited,Banks - Regional,NSE
+HDFCAMC,HDFC Asset Management Company Limited,Asset Management,NSE
+CONCOR,Container Corporation of India Limited,Railroads,NSE
+COALINDIA,Coal India Limited,Thermal Coal,NSE
+PEL,Piramal Enterprises Limited,Financial Conglomerates,NSE
+ENDURANCE,Endurance Technologies Limited,Auto Parts,NSE
+IRCTC,Indian Railway Catering & Tourism Corporation Limited,Railroads,NSE
+WOCKPHARMA,Wockhardt Limited,Drug Manufacturers - Specialty & Generic,NSE
+TRIVENI,Triveni Engineering & Industries Limited,Confectioners,NSE
+DEVYANI,Devyani International Limited,Restaurants,NSE
+BOSCHLTD,Bosch Limited,Auto Parts,NSE
+RAILTEL,RailTel Corporation of India Limited,Telecom Services,NSE
+BANKBARODA,Bank of Baroda Limited,Banks - Regional,NSE
+BLUEDART,Blue Dart Express Limited,Integrated Freight & Logistics,NSE
+HEROMOTOCO,Hero MotoCorp Limited,Auto Manufacturers,NSE
+TATACONSUM,Tata Consumer Products Limited,Packaged Foods,NSE
+MOTILALOFS,Motilal Oswal Financial Services Limited,Capital Markets,NSE
+FEDERALBNK,The Federal Bank Limited,Banks - Regional,NSE
+POLYMED,Poly Medicure Limited,Medical Instruments & Supplies,NSE
+JSWENERGY,JSW Energy Limited,Utilities - Independent Power Producers,NSE
+NETWORK18,Network18 Media & Investments Limited,Entertainment,NSE
+SUNDARMFIN,Sundaram Finance Limited,Credit Services,NSE
+ABSLAMC,Aditya Birla Sun Life AMC Limited,Asset Management,NSE
+ACMESOLAR,ACME Solar Holdings Limited,Utilities - Renewable,NSE
+ZYDUSLIFE,Zydus Lifesciences Limited,Drug Manufacturers - Specialty & Generic,NSE
+ZENTEC,Zen Technologies Limited,Aerospace & Defense,NSE
+IOC,Indian Oil Corporation Limited,Oil & Gas Refining & Marketing,NSE
+CEATLTD,CEAT Limited,Auto Parts,NSE
+KANSAINER,Kansai Nerolac Paints Limited,Specialty Chemicals,NSE
+ADANIPOWER,Adani Power Limited,Utilities - Independent Power Producers,NSE
+KIMS,Krishna Institute of Medical Sciences Limited,Medical Care Facilities,NSE
+BAJFINANCE,Bajaj Finance Limited,Credit Services,NSE
+LUPIN,Lupin Limited,Drug Manufacturers - Specialty & Generic,NSE
+ASTERDM,Aster DM Healthcare Limited,Medical Care Facilities,NSE
+JSWSTEEL,JSW Steel Limited,Steel,NSE
+GPPL,Gujarat Pipavav Port Limited,Marine Shipping,NSE
+WELCORP,Welspun Corp Limited,Steel,NSE
+PNB,Punjab National Bank,Banks - Regional,NSE
+STARHEALTH,Star Health and Allied Insurance Company Limited,Insurance - Diversified,NSE
+JIOFIN,Jio Financial Services Limited,Asset Management,NSE
+MAZDOCK,Mazagon Dock Shipbuilders Limited,Aerospace & Defense,NSE
+CESC,CESC Limited,Utilities - Regulated Electric,NSE
+INDHOTEL,The Indian Hotels Company Limited,Lodging,NSE
+ADANIENT,Adani Enterprises Limited,Thermal Coal,NSE
+LICHSGFIN,LIC Housing Finance Limited,Mortgage Finance,NSE
+HDFCBANK,HDFC Bank Limited,Banks - Regional,NSE
+INDIANB,Indian Bank,Banks - Regional,NSE
+TATAINVEST,Tata Investment Corporation Limited,Capital Markets,NSE
+MUTHOOTFIN,Muthoot Finance Limited,Credit Services,NSE
+KALYANKJIL,Kalyan Jewellers India Limited,Luxury Goods,NSE
+SBICARD,SBI Cards and Payment Services Limited,Credit Services,NSE
+ALOKINDS,Alok Industries Limited,Textile Manufacturing,NSE
+SAREGAMA,Saregama India Limited,Entertainment,NSE
+BPCL,Bharat Petroleum Corporation Limited,Oil & Gas Refining & Marketing,NSE
+LTIM,LTIMindtree Limited,Information Technology Services,NSE
+ADANIGREEN,Adani Green Energy Limited,Utilities - Renewable,NSE
+ASTRAZEN,AstraZeneca Pharma India Limited,Drug Manufacturers - Specialty & Generic,NSE
+MOTHERSON,Samvardhana Motherson International Limited,Auto Parts,NSE
+PGEL,PG Electroplast Limited,Electronic Components,NSE
+INDIAMART,IndiaMART InterMESH Limited,Internet Content & Information,NSE
+CRAFTSMAN,Craftsman Automation Limited,Auto Parts,NSE
+DALBHARAT,Dalmia Bharat Limited,Building Materials,NSE
+JINDALSTEL,Jindal Steel Limited,Steel,NSE
+AUBANK,AU Small Finance Bank Limited,Banks - Regional,NSE
+IDBI,IDBI Bank Limited,Banks - Regional,NSE
+BAJAJ-AUTO,Bajaj Auto Limited,Auto Manufacturers,NSE
+WHIRLPOOL,Whirlpool of India Limited,"Furnishings, Fixtures & Appliances",NSE
+DEEPAKNTR,Deepak Nitrite Limited,Chemicals,NSE
+SUNDRMFAST,Sundram Fasteners Limited,Auto Parts,NSE
+CONCORDBIO,Concord Biotech Limited,Biotechnology,NSE
+SBFC,SBFC Finance Limited,Credit Services,NSE
+HFCL,HFCL Limited,Communication Equipment,NSE
+MAPMYINDIA,C. E. Info Systems Limited,Software - Infrastructure,NSE
+RKFORGE,Ramkrishna Forgings Limited,Metal Fabrication,NSE
+GICRE,General Insurance Corporation of India,Insurance - Reinsurance,NSE
+CGCL,Capri Global Capital Limited,Credit Services,NSE
+JWL,Jupiter Wagons Limited,Railroads,NSE
+POONAWALLA,Poonawalla Fincorp Limited,Credit Services,NSE
+KPRMILL,K.P.R. Mill Limited,Textile Manufacturing,NSE
+CRISIL,CRISIL Limited,Financial Data & Stock Exchanges,NSE
+SWSOLAR,Sterling and Wilson Renewable Energy Limited,Solar,NSE
+NCC,NCC Limited,Engineering & Construction,NSE
+BRITANNIA,Britannia Industries Limited,Packaged Foods,NSE
+INOXINDIA,INOX India Limited,Specialty Industrial Machinery,NSE
+HSCL,Himadri Speciality Chemical Limited,Specialty Chemicals,NSE
+DIXON,Dixon Technologies (India) Limited,Consumer Electronics,NSE
+BIKAJI,Bikaji Foods International Limited,Packaged Foods,NSE
+BLUESTARCO,Blue Star Limited,Building Products & Equipment,NSE
+GRASIM,Grasim Industries Limited,Building Materials,NSE
+EIHOTEL,EIH Limited,Lodging,NSE
+TRIDENT,Trident Limited,Textile Manufacturing,NSE
+GRANULES,Granules India Limited,Drug Manufacturers - Specialty & Generic,NSE
+LICI,Life Insurance Corporation of India,Insurance - Life,NSE
+HONASA,Honasa Consumer Limited,Household & Personal Products,NSE
+ADANIENSOL,Adani Energy Solutions Limited,Utilities - Independent Power Producers,NSE
+AMBUJACEM,Ambuja Cements Limited,Building Materials,NSE
+SHREECEM,Shree Cement Limited,Building Materials,NSE
+LATENTVIEW,Latent View Analytics Limited,Consulting Services,NSE
+CARBORUNIV,Carborundum Universal Limited,Conglomerates,NSE
+DELHIVERY,Delhivery Limited,Integrated Freight & Logistics,NSE
+TIMKEN,Timken India Limited,Tools & Accessories,NSE
+DCMSHRIRAM,DCM Shriram Limited,Conglomerates,NSE
+DLF,DLF Limited,Real Estate - Development,NSE
+CROMPTON,Crompton Greaves Consumer Electricals Limited,"Furnishings, Fixtures & Appliances",NSE
+HINDPETRO,Hindustan Petroleum Corporation Limited,Oil & Gas Refining & Marketing,NSE
+TATATECH,Tata Technologies Limited,Information Technology Services,NSE
+NAVA,Nava Limited,Conglomerates,NSE
+MGL,Mahanagar Gas Limited,Utilities - Regulated Gas,NSE
+POLYCAB,Polycab India Limited,Electrical Equipment & Parts,NSE
+3MINDIA,3M India Limited,Conglomerates,NSE
+BEL,Bharat Electronics Limited,Aerospace & Defense,NSE
+NHPC,NHPC Limited,Utilities - Renewable,NSE
+PETRONET,Petronet LNG Limited,Oil & Gas Refining & Marketing,NSE
+ELECON,Elecon Engineering Company Limited,Specialty Industrial Machinery,NSE
+ICICIBANK,ICICI Bank Limited,Banks - Regional,NSE
+TATACOMM,Tata Communications Limited,Telecom Services,NSE
+CENTRALBK,Central Bank of India,Banks - Regional,NSE
+TRENT,Trent Limited,Apparel Retail,NSE
+BATAINDIA,Bata India Limited,Footwear & Accessories,NSE
+SONATSOFTW,Sonata Software Limited,Information Technology Services,NSE
+WIPRO,Wipro Limited,Information Technology Services,NSE
+OFSS,Oracle Financial Services Software Limited,Software - Infrastructure,NSE
+JUSTDIAL,Just Dial Limited,Internet Content & Information,NSE
+GESHIP,The Great Eastern Shipping Company Limited,Marine Shipping,NSE
+POWERINDIA,Hitachi Energy India Limited,Electrical Equipment & Parts,NSE
+APLAPOLLO,APL Apollo Tubes Limited,Steel,NSE
+SBIN,State Bank of India,Banks - Regional,NSE
+CGPOWER,CG Power and Industrial Solutions Limited,Electrical Equipment & Parts,NSE
+TIINDIA,Tube Investments of India Limited,Conglomerates,NSE
+TECHNOE,Techno Electric & Engineering Company Limited,Engineering & Construction,NSE
+MCX,Multi Commodity Exchange of India Limited,Financial Data & Stock Exchanges,NSE
+NATCOPHARM,NATCO Pharma Limited,Drug Manufacturers - Specialty & Generic,NSE
+IPCALAB,Ipca Laboratories Limited,Drug Manufacturers - Specialty & Generic,NSE
+BAYERCROP,Bayer CropScience Limited,Agricultural Inputs,NSE
+MANYAVAR,Vedant Fashions Limited,Apparel Manufacturing,NSE
+CUMMINSIND,Cummins India Limited,Specialty Industrial Machinery,NSE
+FORTIS,Fortis Healthcare Limited,Medical Care Facilities,NSE
+BAJAJHLDNG,Bajaj Holdings & Investment Limited,Asset Management,NSE
+SCHAEFFLER,Schaeffler India Limited,Auto Parts,NSE
+APOLLOTYRE,Apollo Tyres Limited,Auto Parts,NSE
+GAIL,GAIL (India) Limited,Utilities - Regulated Gas,NSE
+BLS,BLS International Services Limited,Specialty Business Services,NSE
+BASF,BASF India Limited,Specialty Chemicals,NSE
+INDIGO,InterGlobe Aviation Limited,Airlines,NSE
+NTPC,NTPC Limited,Utilities - Regulated Electric,NSE
+SYRMA,Syrma SGS Technology Limited,Electronic Components,NSE
+HAVELLS,Havells India Limited,Electrical Equipment & Parts,NSE
+NEULANDLAB,Neuland Laboratories Limited,Drug Manufacturers - Specialty & Generic,NSE
+TORNTPHARM,Torrent Pharmaceuticals Limited,Drug Manufacturers - Specialty & Generic,NSE
+SUNTV,Sun TV Network Limited,Broadcasting,NSE
+IEX,Indian Energy Exchange Limited,Capital Markets,NSE
+ANANDRATHI,Anand Rathi Wealth Limited,Asset Management,NSE
+ALIVUS,Alivus Life Sciences Limited,Drug Manufacturers - Specialty & Generic,NSE
+TRITURBINE,Triveni Turbine Limited,Specialty Industrial Machinery,NSE
+ULTRACEMCO,UltraTech Cement Limited,Building Materials,NSE
+NESTLEIND,Nestlé India Limited,Packaged Foods,NSE
+GMRAIRPORT,GMR Airports Limited,Airports & Air Services,NSE
+CERA,Cera Sanitaryware Limited,Building Products & Equipment,NSE
+ONGC,Oil and Natural Gas Corporation Limited,Oil & Gas Integrated,NSE
+SUPREMEIND,The Supreme Industries Limited,Building Products & Equipment,NSE
+LLOYDSME,Lloyds Metals and Energy Limited,Steel,NSE
+PCBL,PCBL Chemical Limited,Specialty Chemicals,NSE
+HAL,Hindustan Aeronautics Limited,Aerospace & Defense,NSE
+VTL,Vardhman Textiles Limited,Textile Manufacturing,NSE
+KOTAKBANK,Kotak Mahindra Bank Limited,Banks - Regional,NSE
+TATACHEM,Tata Chemicals Limited,Chemicals,NSE
+ADANIPORTS,Adani Ports and Special Economic Zone Limited,Marine Shipping,NSE
+HAPPSTMNDS,Happiest Minds Technologies Limited,Information Technology Services,NSE
+ASAHIINDIA,Asahi India Glass Limited,Auto Parts,NSE
+ICICIPRULI,ICICI Prudential Life Insurance Company Limited,Insurance - Life,NSE
+GPIL,Godawari Power & Ispat Limited,Steel,NSE
+WESTLIFE,Westlife Foodworld Limited,Restaurants,NSE
+AIIL,Authum Investment & Infrastructure Limited,Capital Markets,NSE
+ZENSARTECH,Zensar Technologies Limited,Information Technology Services,NSE
+CASTROLIND,Castrol India Limited,Oil & Gas Refining & Marketing,NSE
+UBL,United Breweries Limited,Beverages - Brewers,NSE
+ACC,ACC Limited,Building Materials,NSE
+PFIZER,Pfizer Limited,Drug Manufacturers - General,NSE
+DMART,Avenue Supermarts Limited,Discount Stores,NSE
+JBCHEPHARM,J. B. Chemicals & Pharmaceuticals Limited,Drug Manufacturers - Specialty & Generic,NSE
+IRB,IRB Infrastructure Developers Limited,Infrastructure Operations,NSE
+ABB,ABB India Limited,Specialty Industrial Machinery,NSE
+KIRLOSBROS,Kirloskar Brothers Limited,Specialty Industrial Machinery,NSE
+AIAENG,AIA Engineering Limited,Specialty Industrial Machinery,NSE
+OLECTRA,Olectra Greentech Limited,Farm & Heavy Construction Machinery,NSE
+RAYMONDLSL,Raymond Lifestyle Limited,Apparel Manufacturing,NSE
+HEG,HEG Limited,Electrical Equipment & Parts,NSE
+LINDEINDIA,Linde India Limited,Specialty Chemicals,NSE
+ATGL,Adani Total Gas Limited,Utilities - Regulated Gas,NSE
+JKCEMENT,J.K. Cement Limited,Building Materials,NSE
+PIDILITIND,Pidilite Industries Limited,Specialty Chemicals,NSE
+PTCIL,PTC Industries Limited,Metal Fabrication,NSE
+CHAMBLFERT,Chambal Fertilisers and Chemicals Limited,Agricultural Inputs,NSE
+SOLARINDS,Solar Industries India Limited,Specialty Chemicals,NSE
+THERMAX,Thermax Limited,Conglomerates,NSE
+AARTIIND,Aarti Industries Limited,Specialty Chemicals,NSE
+CANFINHOME,Can Fin Homes Limited,Mortgage Finance,NSE
+GRAPHITE,Graphite India Limited,Electrical Equipment & Parts,NSE
+TITAN,Titan Company Limited,Luxury Goods,NSE
+JSWINFRA,JSW Infrastructure Limited,Marine Shipping,NSE
+ABREL,Aditya Birla Real Estate Limited,Paper & Paper Products,NSE
+CYIENT,Cyient Limited,Conglomerates,NSE
+ACE,Action Construction Equipment Limited,Farm & Heavy Construction Machinery,NSE
+BALRAMCHIN,Balrampur Chini Mills Limited,Confectioners,NSE
+PAGEIND,Page Industries Limited,Apparel Manufacturing,NSE
+RAINBOW,Rainbow Children's Medicare Limited,Medical Care Facilities,NSE
+APOLLOHOSP,Apollo Hospitals Enterprise Limited,Medical Care Facilities,NSE
+FLUOROCHEM,Gujarat Fluorochemicals Limited,Specialty Chemicals,NSE
+MARICO,Marico Limited,Household & Personal Products,NSE
+MANKIND,Mankind Pharma Limited,Drug Manufacturers - Specialty & Generic,NSE
+GILLETTE,Gillette India Limited,Household & Personal Products,NSE
+KNRCON,KNR Constructions Limited,Engineering & Construction,NSE
+KEC,KEC International Limited,Engineering & Construction,NSE
+UPL,UPL Limited,Agricultural Inputs,NSE
+FACT,The Fertilisers and Chemicals Travancore Limited,Agricultural Inputs,NSE
+NLCINDIA,NLC India Limited,Utilities - Regulated Electric,NSE
+ITI,ITI Limited,Communication Equipment,NSE
+DABUR,Dabur India Limited,Household & Personal Products,NSE
+LT,Larsen & Toubro Limited,Engineering & Construction,NSE
+MRF,MRF Limited,Auto Parts,NSE
+AWL,AWL Agri Business Limited,Packaged Foods,NSE
+CREDITACC,CreditAccess Grameen Limited,Credit Services,NSE
+EIDPARRY,E.I.D.- Parry (India) Limited,Agricultural Inputs,NSE
+INFY,Infosys Limited,Information Technology Services,NSE
+SCI,The Shipping Corporation of India Limited,Marine Shipping,NSE
+BBTC,The Bombay Burmah Trading Corporation Limited,Packaged Foods,NSE
+NEWGEN,Newgen Software Technologies Limited,Software - Infrastructure,NSE
+CCL,CCL Products (India) Limited,Packaged Foods,NSE
+MEDANTA,Global Health Limited,Medical Care Facilities,NSE
+COCHINSHIP,Cochin Shipyard Limited,Aerospace & Defense,NSE
+LODHA,Lodha Developers Limited,Real Estate - Development,NSE
+SRF,SRF Limited,Conglomerates,NSE
+LTTS,L&T Technology Services Limited,Information Technology Services,NSE
+KIRLOSENG,Kirloskar Oil Engines Limited,Specialty Industrial Machinery,NSE
+BALKRISIND,Balkrishna Industries Limited,Auto Parts,NSE
+GODREJCP,Godrej Consumer Products Limited,Household & Personal Products,NSE
+PATANJALI,Patanjali Foods Limited,Packaged Foods,NSE
+OBEROIRLTY,Oberoi Realty Limited,Real Estate - Development,NSE
+JYOTHYLAB,Jyothy Labs Limited,Household & Personal Products,NSE
+METROPOLIS,Metropolis Healthcare Limited,Diagnostics & Research,NSE
+COROMANDEL,Coromandel International Limited,Agricultural Inputs,NSE
+GSPL,Gujarat State Petronet Limited,Utilities - Regulated Gas,NSE
+APLLTD,Alembic Pharmaceuticals Limited,Drug Manufacturers - Specialty & Generic,NSE
+INDIACEM,The India Cements Limited,Building Materials,NSE
+SAPPHIRE,Sapphire Foods India Limited,Restaurants,NSE
+SAGILITY,Sagility Limited,Health Information Services,NSE
+NAM-INDIA,Nippon Life India Asset Management Limited,Asset Management,NSE
+APARINDS,APAR Industries Limited,Electrical Equipment & Parts,NSE
+HINDUNILVR,Hindustan Unilever Limited,Household & Personal Products,NSE
+RADICO,Radico Khaitan Limited,Beverages - Wineries & Distilleries,NSE
+ELGIEQUIP,Elgi Equipments Limited,Specialty Industrial Machinery,NSE
+SYNGENE,Syngene International Limited,Diagnostics & Research,NSE
+TECHM,Tech Mahindra Limited,Information Technology Services,NSE
+RRKABEL,R R Kabel Limited,Electrical Equipment & Parts,NSE
+TCS,Tata Consultancy Services Limited,Information Technology Services,NSE
+IGL,Indraprastha Gas Limited,Utilities - Regulated Gas,NSE
+KAJARIACER,Kajaria Ceramics Limited,Building Products & Equipment,NSE
+DOMS,DOMS Industries Limited,Business Equipment & Supplies,NSE
+ZFCVINDIA,ZF Commercial Vehicle Control Systems India Limited,Auto Parts,NSE
+ICICIGI,ICICI Lombard General Insurance Company Limited,Insurance - Diversified,NSE
+HCLTECH,HCL Technologies Limited,Information Technology Services,NSE
+COLPAL,Colgate-Palmolive (India) Limited,Household & Personal Products,NSE
+MASTEK,Mastek Limited,Information Technology Services,NSE
+TEJASNET,Tejas Networks Limited,Communication Equipment,NSE
+ERIS,Eris Lifesciences Limited,Drug Manufacturers - Specialty & Generic,NSE
+CIPLA,Cipla Limited,Drug Manufacturers - Specialty & Generic,NSE
+HONAUT,Honeywell Automation India Limited,Electrical Equipment & Parts,NSE
+SIEMENS,Siemens Limited,Specialty Industrial Machinery,NSE
+BRIGADE,Brigade Enterprises Limited,Real Estate - Development,NSE
+ALKYLAMINE,Alkyl Amines Chemicals Limited,Specialty Chemicals,NSE
+GNFC,Gujarat Narmada Valley Fertilizers & Chemicals Limited,Chemicals,NSE
+DBREALTY,Valor Estate Limited,Real Estate - Development,NSE
+DIVISLAB,Divi's Laboratories Limited,Drug Manufacturers - Specialty & Generic,NSE
+COFORGE,Coforge Limited,Information Technology Services,NSE
+REDINGTON,Redington Limited,Information Technology Services,NSE
+GODREJPROP,Godrej Properties Limited,Real Estate - Development,NSE
+ITC,ITC Limited,Tobacco,NSE
+POLICYBZR,PB Fintech Limited,Insurance Brokers,NSE
+MAHSEAMLES,Maharashtra Seamless Limited,Steel,NSE
+GUJGASLTD,Gujarat Gas Limited,Utilities - Regulated Gas,NSE
+EMAMILTD,Emami Limited,Household & Personal Products,NSE
+INTELLECT,Intellect Design Arena Limited,Software - Application,NSE
+FINPIPE,Finolex Industries Limited,Building Products & Equipment,NSE
+ATUL,Atul Ltd,Specialty Chemicals,NSE
+JUBLINGREA,Jubilant Ingrevia Limited,Specialty Chemicals,NSE
+RCF,Rashtriya Chemicals and Fertilizers Limited,Agricultural Inputs,NSE
+NAVINFLUOR,Navin Fluorine International Limited,Chemicals,NSE
+UTIAMC,UTI Asset Management Company Limited,Asset Management,NSE
+LALPATHLAB,Dr. Lal PathLabs Limited,Diagnostics & Research,NSE
+MPHASIS,Mphasis Limited,Information Technology Services,NSE
+KEI,KEI Industries Limited,Electrical Equipment & Parts,NSE
+JINDALSAW,Jindal Saw Limited,Steel,NSE
+RAMCOCEM,The Ramco Cements Limited,Building Materials,NSE
+PIIND,PI Industries Limited,Agricultural Inputs,NSE
+TORNTPOWER,Torrent Power Limited,Utilities - Independent Power Producers,NSE
+SOBHA,Sobha Limited,Real Estate - Development,NSE
+SUMICHEM,Sumitomo Chemical India Limited,Agricultural Inputs,NSE
+PRESTIGE,Prestige Estates Projects Limited,Real Estate - Diversified,NSE
+NIACL,The New India Assurance Company Limited,Insurance - Diversified,NSE
+DEEPAKFERT,Deepak Fertilisers And Petrochemicals Corporation Limited,Chemicals,NSE
+NH,Narayana Hrudayalaya Limited,Medical Care Facilities,NSE
+GLAXO,GlaxoSmithKline Pharmaceuticals Limited,Drug Manufacturers - General,NSE
+ABBOTINDIA,Abbott India Limited,Drug Manufacturers - Specialty & Generic,NSE
+PERSISTENT,Persistent Systems Limited,Information Technology Services,NSE
+FSL,Firstsource Solutions Limited,Information Technology Services,NSE
+ECLERX,eClerx Services Limited,Information Technology Services,NSE
+VBL,Varun Beverages Limited,Beverages - Non-Alcoholic,NSE
