@@ -23,12 +23,12 @@ CREATE TABLE market_prices (
 CREATE TABLE login_credentials (
     login_id VARCHAR(50) PRIMARY KEY,
     username VARCHAR(100) UNIQUE NOT NULL,
-    password_user VARCHAR(255) NOT NULL,
+    password_hash VARCHAR(255) NOT NULL,
     dob DATE NOT NULL,
     last_login TIMESTAMP,
-    
-    CHECK (DATEDIFF(CURRENT_DATE(), dob) / 365.25 >= 18),
-    CHECK (CHAR_LENGTH(password_user) > 10)
+
+    CHECK (DATEDIFF(CURRENT_DATE(), dob) / 365.25 >= 18)
+
 );
 
 CREATE TABLE user (
